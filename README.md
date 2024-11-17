@@ -1,1 +1,0 @@
-sam[le service
